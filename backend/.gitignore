@@ -1,0 +1,7 @@
+
+Copy code
+# Ignore node_modules
+node_modules/
+
+# Ignore environment variables file
+.env
